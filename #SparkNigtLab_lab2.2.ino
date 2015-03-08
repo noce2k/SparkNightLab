@@ -1,3 +1,8 @@
+//
+// Lab presented during the 1st edition of SparkNightLab in Turin 6-Mar-2015
+// this is an example provided by Spark and presented by @marcobodoira and @noce2k 
+// ----------------------------------------------------------------------------------
+
 int led1 = D0; // We name pin D0 as led
 void setup() { 
    Spark.function("led", ledControl);
