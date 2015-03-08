@@ -1,3 +1,8 @@
+//
+// Lab presented during the 1st edition of SparkNightLab in Turin 6-Mar-2015
+// this is an example provided by Spark and presented by @marcobodoira and @noce2k 
+// ----------------------------------------------------------------------------------
+
 // Program to blink an LED connected to pin D0 
 // of the Spark Core. 
 // We name pin D0 as led 
